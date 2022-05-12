@@ -1,0 +1,38 @@
+.b{
+    width: 1593px;
+    height: 744px;
+    background-color: #74B9FF;
+    position: absolute;
+    border-radius: 20px;
+    margin-left: 3px;
+
+}
+.c{
+    width: 1248px;
+    height: 735px;
+    background-color: #EEF0F5;
+    position:absolute;
+    margin-top: 3px;
+    margin-left: 340px;
+    border-radius: 25px;
+}
+.stk{
+    margin-top: 60px;
+    margin-left: 60px;
+}
+.paymentContainer{
+    width: 280px;
+    padding-left: 8px;
+    border-radius: 4px;
+    background-color: #0984E3;
+}
+#home,#payment,#bills,#services,#tenants{
+    font-size: x-large;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+#homeLogoId,#paymentsLogoId,#billsLogoId,#servicesLogoId,#tenantsLogoId{
+    height: 25px;
+    width: 25px;
+    padding-right: 8px;
+}
